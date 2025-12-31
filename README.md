@@ -30,6 +30,8 @@
   <p>This is a proof of concept, and only indexes the ipfs wikipedia</p>
  <li><a href="https://github.com/D4RK-R4BB1T/Dark-Web-Archives">Dark Web Archives</a></li> 
   <p>All public/Privately leaked Dark Web Marketplace (DNM) Scripts, Source codes and information.</p>
+ <li><a href="daunt.link">Daunt</a></li>
+  <p>Darkweb Directory</p> 
  <li><a href="https://github.com/DedSecInside/TorBot">DedSecInside</a></li> 
   <p>Dark Web OSINT Tool.</p>
  <li><a href="https://metrics.torproject.org/exonerator.html">Exonera TOR</a></li>
